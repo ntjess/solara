@@ -114,7 +114,7 @@ mistune==0.8.4
 mkdocs-pycafe==0.3.0
 mypy==1.14.1
 mypy-extensions==1.0.0
-narwhals==1.20.1
+narwhals==1.21.0
 nbclassic==1.1.0
 nbclient==0.5.13
 nbconvert==6.5.4
@@ -152,7 +152,7 @@ pycparser==2.22
 pydantic==1.10.19
 pydantic_core==2.27.2
 pyee==11.0.1
-Pygments==2.19.0
+Pygments==2.19.1
 pymdown-extensions==10.13
 pyparsing==3.1.4
 pytest==8.3.4
