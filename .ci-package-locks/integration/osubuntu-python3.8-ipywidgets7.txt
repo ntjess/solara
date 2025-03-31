@@ -51,7 +51,7 @@ folium==0.18.0
 fonttools==4.56.0
 fqdn==1.5.1
 frozendict==2.4.6
-fsspec==2025.3.0
+fsspec==2025.3.1
 future==1.0.0
 greenlet==3.0.3
 h11==0.14.0
@@ -177,7 +177,7 @@ regex==2024.11.6
 requests==2.32.3
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
-rich==13.9.4
+rich==14.0.0
 rich-click==1.8.8
 rpds-py==0.20.1
 ruff==0.11.2
